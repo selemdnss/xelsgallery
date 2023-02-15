@@ -224,12 +224,12 @@ p{
 
 @media only screen and (min-width: 360px) {
     .art{
-        width: 20vh;
+        width: 150px;
         height: auto;
         margin: 2.5%;
     }
     .art:hover{
-        width: 24vh;
+        width: 160px;
         height: auto;
         margin: 0%;
     }
